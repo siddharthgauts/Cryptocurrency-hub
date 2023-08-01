@@ -11,8 +11,7 @@ Key Features:
 
 🔄 Real-time Updates: Our web app constantly fetches live data, ensuring you are always aware of the latest market changes as they happen.
 
-Whether you are a seasoned crypto enthusiast or just starting your journey into the world of cryptocurrencies, our CryptoCoin Price Tracker provides a user-friendly and comprehensive platform to keep you ahead of the game. Start exploring the fascinating world of crypto trading today!
-
+Whether you are a seasoned crypto enthusiast or just starting your journey into the world of cryptocurrencies, our Webapp provides a user-friendly and comprehensive platform to keep you ahead of the game. 
 
 # Some of the testimonials are attached
 
