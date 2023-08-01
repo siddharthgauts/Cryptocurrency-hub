@@ -1,6 +1,6 @@
 # "Welcome to our CryptoCurrency HUB! 🚀📈
 
-Our React web app provides real-time data on cryptocurrency prices, enabling you to stay updated on the latest market trends and make informed investment decisions. With an intuitive interface, you can effortlessly explore the current prices of various cryptocurrencies, along with detailed interactive graphs that offer insights into their price fluctuations over different time intervals.
+This React web app provides real-time data on cryptocurrency prices, enabling you to stay updated on the latest market trends and make informed investment decisions. With an intuitive interface, you can effortlessly explore the current prices of various cryptocurrencies, along with detailed interactive graphs that offer insights into their price fluctuations over different time intervals.
 
 Key Features:
 📊 Live Price Data: Access up-to-the-minute prices of popular cryptocurrencies from the CoinGecko API, ensuring you have the most accurate and reliable data at your fingertips.
